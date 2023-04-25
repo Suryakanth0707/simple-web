@@ -1,0 +1,89 @@
+.Div1{
+  background-color: #E4F9F5;
+  padding-top:20px;
+}
+.Div2{
+  background-color: #E4F9F5;
+}
+.Div3{
+  background-color: #E4F9F5;
+
+}
+
+h1{
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  position: relative;
+  top: 50px;
+font-family: 'Sacramento', cursive;
+}
+
+.p1{
+  position: relative;
+  top: 50px;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+font-family: 'Montserrat', sans-serif;
+}
+body{
+  margin-top: 0;
+  margin-right: 0;
+  margin-left: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.cloud1{
+  position: relative;
+  left: 220px;
+  top: 40px;
+}
+.cloud2{
+  position: absolute;
+  top:250px
+}
+.Mount{
+  height: 550px;
+  width:650px;
+}
+.Prof{
+  position: relative;
+  top:20px;
+  height: 100px;
+  width:100px;
+}
+.sur{
+  position: relative;
+  top: 100px;
+}
+
+.footer-link1{
+  position: relative;
+  top: 75px;
+  right: 35px;
+}
+.footer-link2{
+  position: relative;
+  top: 75px;
+  left: 10px;
+}
+.footer-link3{
+  position: relative;
+  top: 75px;
+  left: 50px;
+}
+.btn{
+  position: relative;
+  top: 30px;
+}
+.Skill{
+  height: 100px;
+  width: 100px;
+}
+.Help{
+  height: 100px;
+  width: 100px;
+}
